@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(mandelbrot CXX)
+project(cashier CXX)
 set(CMAKE_CXX_COMPILER "g++")
 set(CMAKE_CXX_STANDARD 17)
 add_executable(cashier main.cpp)
